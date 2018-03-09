@@ -1,0 +1,8 @@
+{
+  "generator-microservice-mongo": {
+    "promptValues": {
+      "mongoURL": "mongodb://localhost:27017/docubot",
+      "username": "IvanDev"
+    }
+  }
+}
