@@ -1,0 +1,23 @@
+{
+  "name": "api-car-rental",
+  "version": "1.0.0",
+  "description": "application to control the rent of vehicles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanVilla1585/car-rental.git"
+  },
+  "author": "Ivan Dario Villa Ramirez <trezeguet55@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanVilla1585/car-rental/issues"
+  },
+  "homepage": "https://github.com/IvanVilla1585/car-rental#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
